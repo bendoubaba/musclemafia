@@ -28,7 +28,7 @@ Clone the project from GitHub or download it using Git:
 bash
 Copier
 Modifier
-git clone https://github.com/your-username/musclemafia.git
+git clone https://github.com/bendoubaba/musclemafia.git
 Set up the Database:
 
 Open phpMyAdmin or MySQL Workbench and create a new database.
